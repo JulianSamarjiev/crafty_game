@@ -3,10 +3,10 @@ if (Meteor.isClient) {
     Game = {
       // This defines our grid's size and the size of each of its tiles
       map_grid: {
-        width:  24,
+        width: 24,
         height: 16,
         tile: {
-          width:  16,
+          width: 16,
           height: 16
         }
       },
